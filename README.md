@@ -5,36 +5,38 @@ Kebutuhan Pameran
 - Brosur
 - Kartu Nama
 - Stiker
- - BoniAyoSemuaDiBlankOnIn
- - BoniChibi
- - BoniMaknyus
- - BoniNgoprek
- - BoniTerbang
- - Dokumentasi
- - Humas
- - Infrastruktur 
- - Kesenian
- - Pemaket 
- - Riset
+  - BoniAyoSemuaDiBlankOnIn
+  - BoniChibi
+  - BoniMaknyus
+  - BoniNgoprek
+  - BoniTerbang
+  - Dokumentasi
+  - Humas
+  - Infrastruktur 
+  - Kesenian
+  - Pemaket 
+  - Riset
 
 - X Banner
- - X Banner BlankOn
- - Xbanner BONI 
+  - X Banner BlankOn
+  - Xbanner BONI 
 
 ## GCompris
 - Stiker
- - Stiker Gcompris Indonesia
+  - Stiker Gcompris Indonesia
 
 ## GNOME
 - Stiker
- - Stiker GNOME Recipes 
+  - Stiker GNOME Recipes 
 
 ## LibreOffice
 - Stiker
- - Stiker LibreOffice Indonesia
+  - Stiker LibreOffice Indonesia
 
 ## Ridon
 - Brosur
 - Kartu Nama
 - Stiker
+  - Stiker Heksagonal Gelap
+  - Stiker Heksagonal Terang
 - X Banner
